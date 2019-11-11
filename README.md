@@ -4,9 +4,7 @@ Predict future movement of individual stock (in SP500) using ARIMA, LSTMs, KMean
 # S&P500 Analysis 
 Webpage deployed [here](https://sp500priceprediction.herokuapp.com/#page1). Explore!
 
-https://github.com/BradDaniels732/Final-Project/static/imgs/stocks.gif
-
-![webpage](https://github.com/EstellaYu/SP500-HedgeFund-Bootcamp/blob/master/static/imgs/webpage.gif)
+![webpage](https://github.com/BradDaniels732/Final-Project/blob/master/static/imgs/stocks.gif)
 
 ## 1. Data Processing
  
