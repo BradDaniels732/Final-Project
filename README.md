@@ -2,7 +2,9 @@
 Predict future movement of individual stock (in SP500) using ARIMA, LSTMs, KMeans and Neural Network
 
 # S&P500 Investment Analysis 
-Webpage deployed [here](https://sp500-investment-analysis.herokuapp.com/#page1). Explore!
+Webpage deployed [here](https://sp500priceprediction.herokuapp.com/#page1). Explore!
+
+
 
 ![webpage](https://github.com/EstellaYu/SP500-HedgeFund-Bootcamp/blob/master/static/imgs/webpage.gif)
 
