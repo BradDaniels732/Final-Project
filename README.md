@@ -1,7 +1,7 @@
 # SP500-stock-prediction
 Predict future movement of individual stock (in SP500) using ARIMA, LSTMs, KMeans and Neural Network
 
-# S&P500 Investment Analysis 
+# S&P500 Analysis 
 Webpage deployed [here](https://sp500priceprediction.herokuapp.com/#page1). Explore!
 
 
