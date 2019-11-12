@@ -1,13 +1,13 @@
 # S&P500 - Stock Return Analysis 
 Webpage deployed [here](https://sp500priceprediction.herokuapp.com/#page1). Explore!
 
-![webpage](https://github.com/BradDaniels732/Final-Project/blob/master/static/imgs/stocks.gif)
-
 We looked the current S&P 500, looked at the past 5 years of stock returns in a number of ways. Built a  Deep Learning Model to classify stocks into outperformers, market performers and underperformers. Tested it with a Monte Carlo simulation.  While the time period is rather short, the model appears to provide excess returns.  
 
 Python | Pandas | Numpy | SQLite | scikit-learn | TensorFlow
 
 Team Members: Brad Daniels, Olufnke Olaleye, and Estella Yu.
+
+![webpage](https://github.com/BradDaniels732/Final-Project/blob/master/static/imgs/stocks.gif)
 
 We downloaded the current list of 500 stocks from Wikipedia, five years of quarterly income statements and balance sheets for each company from Edgar-Online, and monthly closing prices from AlphaVantage.  From this data, we were able to calculate the following
 
