@@ -11,22 +11,22 @@ Team Members: Brad Daniels, Olufnke Olaleye, and Estella Yu.
 
 We downloaded the current list of 500 stocks from Wikipedia, five years of quarterly income statements and balance sheets for each company from Edgar-Online, and monthly closing prices from AlphaVantage.  From this data, we were able to calculate the following
 
-Fundamental Factors
-Price / Trailing four quarter earnings per share
-Price / Book Value
-Enterprise Value / Revenue
-Enterprise Value / Earnings before Interest and Taxes
+__Fundamental Factors__
+1. Price / Trailing four quarter earnings per share
+2. Price / Book Value
+3. Enterprise Value / Revenue
+4. Enterprise Value / Earnings before Interest and Taxes
 
-Quality Factor
+__Quality Factor__
 Net Debt / Total Capital
 
-Size Factor
+__Size Factor__
 Market Capitalization
 
-Momentum Factors
-Trailing One-Month Price Return
-Trailing Three-Month Price Return
-Trailing Twelve-Month Price Return
+__Momentum Factors__
+1. Trailing One-Month Price Return
+2. Trailing Three-Month Price Return
+3. Trailing Twelve-Month Price Return
 
 The final project was done in two phases, with the first phase looking at the return history to the fundamental, quality and size factors, across the whole market and by economic sector.  On the website, that analysis is contained in the first row of tiles.  The second phase of the project focused on machine learning.  We tried an ARIMA model to try and forecast future stock prices, a deep learning model to predict outperformers, market performers and underperformers, and a cluster analysis to see if there were any unexpected groupings of stocks.
 
