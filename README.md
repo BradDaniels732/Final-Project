@@ -18,10 +18,10 @@ __Fundamental Factors__
 4. Enterprise Value / Earnings before Interest and Taxes
 
 __Quality Factor__
-Net Debt / Total Capital
+1. Net Debt / Total Capital
 
 __Size Factor__
-Market Capitalization
+1. Market Capitalization
 
 __Momentum Factors__
 1. Trailing One-Month Price Return
